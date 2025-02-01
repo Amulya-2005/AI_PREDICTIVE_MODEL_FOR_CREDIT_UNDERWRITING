@@ -52,7 +52,7 @@ fpdf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting.git
+   git clone https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING-1.git
    cd AI-Predictive-Methods-for-Credit-underwriting
    ```
 
@@ -98,7 +98,7 @@ The app provides the following input fields in the sidebar:
 
 ## Output
 
-- **Streamlit Link**: [Click here to access the app](https://ai-predictive-methods-for-credit-underwriting-e6mhvscqrvuabfjy.streamlit.app/)
+- **Streamlit Link**: [Click here to access the app](https://aipredictivemodelforcreditunderwriting-1-bs8n5q7qjtztrclfkuqfc.streamlit.app/)
 - **Loan Status**: Displays whether the loan is approved or rejected.
 - **Prediction Probabilities**: Shows the probability of approval and rejection.
 - **PDF Report**: Generates a detailed downloadable PDF report containing:
@@ -140,12 +140,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contributors
 
-- **Bollapalli Anil Kumar** (Developer)
-- [GitHub Profile](https://github.com/Anilkumar322)
+- **Chithunuri Amulya** (Developer)
+- [GitHub Profile]((https://github.com/Amulya-2005))
 
 ---
 
 ## Feedback
 
-For any issues or suggestions, please open an issue on the [GitHub repository](https://github.com/Anilkumar322/AI-Predictive-Methods-for-Credit-underwriting.git).
+For any issues or suggestions, please open an issue on the [GitHub repository](https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING-1).
 
