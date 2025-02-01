@@ -66,7 +66,7 @@ fpdf
    streamlit run streamlit_app.py
    ```
 
-4. Open the provided local URL in your browser to access the app.
+4. Open the provided local URL in your browser to access the app
 
 ---
 
