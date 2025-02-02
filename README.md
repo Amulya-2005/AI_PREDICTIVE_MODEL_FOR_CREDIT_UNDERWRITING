@@ -147,5 +147,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Feedback
 
-For any issues or suggestions, please open an issue on the [GitHub repository](https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING-1).
+For any issues or suggestions, please open an issue on the [GitHub repository]((https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING)).
 
