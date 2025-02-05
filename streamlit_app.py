@@ -74,7 +74,7 @@ from fpdf import FPDF
 model_path = 'best_features_model.pkl'
 model = joblib.load(model_path)
 
-# Initialize session state
+# Initialize session state variables
 if "loan_details" not in st.session_state:
     st.session_state["loan_details"] = {
         "full_name": "",
@@ -95,6 +95,7 @@ if "loan_details" not in st.session_state:
         "id_proof": None,
         "address_proof": None
     }
+
 if "current_step" not in st.session_state:
     st.session_state["current_step"] = "Personal Information"
 
