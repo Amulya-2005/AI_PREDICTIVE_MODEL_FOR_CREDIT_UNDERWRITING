@@ -52,7 +52,7 @@ fpdf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING-1.git
+   git clone https://github.com/Amulya-2005/AI_PREDICTIVE_MODEL_FOR_CREDIT_UNDERWRITING.git
    cd AI-Predictive-Methods-for-Credit-underwriting
    ```
 
