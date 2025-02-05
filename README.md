@@ -98,7 +98,7 @@ The app provides the following input fields in the sidebar:
 
 ## Output
 
-- **Streamlit Link**: [(https://aipredictivemodelforcreditunderwriting-1-bs8n5q7qjtztrclfkuqfc.streamlit.app/)]
+- **Streamlit Link**: [(https://ai-predictive-methods-for-credit-underwriting-csu8gym5fctrsyru.streamlit.app/)]
 - **Loan Status**: Displays whether the loan is approved or rejected.
 - **Prediction Probabilities**: Shows the probability of approval and rejection.
 - **PDF Report**: Generates a detailed downloadable PDF report containing:
